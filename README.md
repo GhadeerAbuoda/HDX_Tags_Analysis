@@ -1,7 +1,7 @@
 # HDX_Tags_Analysis
 
 
-In this repository, I shared different experimental ideas for "Tag suggestion" module which suggests a set of reasonable tags "keyword phrases" for HDX dataset. 
+In this repository, I share different experimental ideas for "Tag suggestion" module which suggests a set of "reasonable" tags "keyword phrases" for HDX dataset. 
 
 A high level of the most important components of the tag suggestion module:
 
